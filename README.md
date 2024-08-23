@@ -9,6 +9,10 @@ The task is to build an engaging user interface where clicking on a card reveals
 ## 📸 Application Demo
 
 
+
+https://github.com/user-attachments/assets/36fe4356-adf2-4264-8cd9-592d8e5750dc
+
+
 ## 🛠️ Technologies Used 
 
  - **HTML**: Markup language for structuring the content.
