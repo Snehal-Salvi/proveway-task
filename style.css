@@ -227,3 +227,10 @@ input[type="radio"]:checked::before {
 .pumper-text {
     color: #ff2d32;
 }
+
+/* Media Queries for Responsiveness */
+@media screen and (max-width: 480px) {
+    .offer-details p{
+        font-size: 0.8em;
+    }
+}
